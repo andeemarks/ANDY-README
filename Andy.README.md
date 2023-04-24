@@ -13,6 +13,7 @@ A document about me as a person and leader.  Recommended reading for people work
 * Sustainable work and life.  I don't live to work.  When I am at work, I'm 100% at work, but I try to switch off outside of that time.  Any environment that is predicated on people working unsustainably to survive is built on false foundations.
 * Seeing colleagues grow.  I have a small %age of the DNA of a teacher in me and seeing colleagues grow their skills, increase their confidence and spread their wings (even if that makes leaving for better opportunities) is a wonderful feeling.
 * Bringing simplicity.  I used to admire the people who promote themselves as "wanting to solve the hardest technical problems".  Now they scare me, and I'd rather make all hard problems easy.
+* Personal health.  So much of life is easier/harder if we're not feeling healthy.  I get very grumpy if I don't get a chance to exercise in some form each day, even if it is just a brisk walk.  
 
 # What I'm good at
 * Self reflection
