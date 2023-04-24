@@ -29,6 +29,7 @@ A document about me as a person and leader.  Recommended reading for people work
 * Speaking up in loud/busy conversations.  I'm an introvert and will listen first, analyse second, then respond.
 * Building confidence in opinions without practical experience.  I'm much happier if I've done the thing I'm talking about.
 * Having many balls in the air simultaneously.  A bit of multi-tasking is ideal, a lot makes me very inefficient.
+* Confronting my inner people pleaser.  Confrontations are things I really don't enjoy.  Effective delegation is a work-in-progress, as is my ability to say "no".
 
 # Getting in touch
 * Prefer face-to-face if possible, especially if we've not met before
