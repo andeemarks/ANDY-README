@@ -1,5 +1,5 @@
 # About Andy
-A document about me as a person and leader.  Recommended reading for people working with me.
+A document about me as a person and leader.  Recommended reading for people working with me.  The inspiration for this document is https://hackernoon.com/12-manager-readmes-from-silicon-valleys-top-tech-companies-26588a660afe
 
 ## Why does this exist?
 1. The creation has helped me identify and refine my thoughts and values.
@@ -21,10 +21,9 @@ A document about me as a person and leader.  Recommended reading for people work
 * Engineering efficiency
 * Talk about tech (especially to non-tech folks)
 * Listening
-* Balanced opinions
-* Feedback
-* Visualisation (especially of technology)
-* Public speaking
+* Feedback.  I've learnt critical feedback should be delivered early and clearly - waiting for things to get better rarely works as you expect.
+* Visualisation (especially of technology).  Give me a big physical whiteboard and a bunch of coloured markers and I'm in heaven.
+* Public speaking.  Strange for an introvert, but I also have a performative streak.  Coupled with my passion for sharing knowledge means public speaking is a real drug.  I've also spent a lot of time helping others build their confidence and chops in public speaking.  I'll rarely refuse a request like this.
 
 # What I'm working on
 * Speaking up in loud/busy conversations.  I'm an introvert and will listen first, analyse second, then respond.
