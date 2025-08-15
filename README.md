@@ -42,7 +42,7 @@ A document about me as a person and leader.  Recommended reading for people work
 
 # Social conversation starters
 * Outdoor stuff, especially walking/hiking and rock climbing.
-* AFL/Essendon.  Long suffering Bombers fan... the glory days of 83, 84, 93 and 2000 seem sooooo long ago :-(
 * NBA.*.  Less so NBL.  Big fan of all Australians playing in the NBA in particular.
 * Bass guitar.  I suspect I'm the world's worst bass player when you compare (a) capability versus (b) time playing.  Yet I still love it and play (badly) regularly.
 * Board games.  I have a low key boardgame addition which I'm attempting to manage.  Any conversations about board games with fellow enthusiasts is enabling this addition... bring it on!
+* New(ish) hobbies; 3D printing and SUP (stand up paddleboarding).
